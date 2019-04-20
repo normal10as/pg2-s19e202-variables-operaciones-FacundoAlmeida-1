@@ -1,0 +1,10 @@
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Tabla de verdad\bin\Debug\netcoreapp2.2\Tabla de verdad.deps.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Tabla de verdad\bin\Debug\netcoreapp2.2\Tabla de verdad.runtimeconfig.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Tabla de verdad\bin\Debug\netcoreapp2.2\Tabla de verdad.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Tabla de verdad\bin\Debug\netcoreapp2.2\Tabla de verdad.dll
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Tabla de verdad\bin\Debug\netcoreapp2.2\Tabla de verdad.pdb
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Tabla de verdad\obj\Debug\netcoreapp2.2\Tabla de verdad.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Tabla de verdad\obj\Debug\netcoreapp2.2\Tabla de verdad.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Tabla de verdad\obj\Debug\netcoreapp2.2\Tabla de verdad.AssemblyInfo.vb
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Tabla de verdad\obj\Debug\netcoreapp2.2\Tabla de verdad.dll
+C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Tabla de verdad\obj\Debug\netcoreapp2.2\Tabla de verdad.pdb
