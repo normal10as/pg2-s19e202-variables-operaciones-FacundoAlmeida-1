@@ -9,5 +9,7 @@ Module Program
         Console.WriteLine("x= " & (B ^ 2 - 4 * A * C) / 2 * A)
 
 
+
+
     End Sub
 End Module
