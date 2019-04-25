@@ -3,7 +3,7 @@ Imports System
 Module Concatenacion
     Sub Main()
 
-        Dim Nombre_empresa As String 
+        Dim Nombre_empresa As String
         Dim Nombre_calle As String 
         Dim Altura_calle As Integer
         Dim Fe_inicio_actividad As Date 
