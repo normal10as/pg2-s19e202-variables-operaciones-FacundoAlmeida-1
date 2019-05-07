@@ -1,0 +1,4 @@
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.17Ajustar_reloj\obj\Debug\netcoreapp2.2\1.17Ajustar_reloj.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.17Ajustar_reloj\obj\Debug\netcoreapp2.2\1.17Ajustar_reloj.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.17Ajustar_reloj\obj\Debug\netcoreapp2.2\1.17Ajustar_reloj.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.17Ajustar_reloj\obj\Debug\netcoreapp2.2\1.17Ajustar_reloj.AssemblyInfo.vb

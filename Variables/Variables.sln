@@ -35,7 +35,7 @@ Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.12Redondeo", "1.12Redonde
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.18Nueva_fecha", "1.18Nueva_fecha\1.18Nueva_fecha.vbproj", "{4CF95409-90ED-4289-9281-82138E54A866}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.15reffrase", "1.15reffrase\1.15reffrase.vbproj", "{DC78EFC6-824C-4ADF-9871-AF03BF9D5BA9}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.15Refrase", "1.15reffrase\1.15Refrase.vbproj", "{DC78EFC6-824C-4ADF-9871-AF03BF9D5BA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
