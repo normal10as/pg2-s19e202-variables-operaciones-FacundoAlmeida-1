@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.15reffrase\bin\Debug\1.15reffrase.exe.config
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.15reffrase\bin\Debug\1.15reffrase.exe
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.15reffrase\bin\Debug\1.15reffrase.pdb
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.15reffrase\bin\Debug\1.15reffrase.xml
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.15reffrase\obj\Debug\1.15reffrase.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.15reffrase\obj\Debug\_1._15reffrase.Resources.resources
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.15reffrase\obj\Debug\1.15reffrase.vbproj.GenerateResource.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.15reffrase\obj\Debug\1.15reffrase.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.15reffrase\obj\Debug\1.15reffrase.exe
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.15reffrase\obj\Debug\1.15reffrase.xml
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.15reffrase\obj\Debug\1.15reffrase.pdb

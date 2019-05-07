@@ -6,6 +6,8 @@ Module Program
         Dim B As Integer
         Dim C As Integer
         Dim D As Integer
+        Dim suma As Integer
+        Dim media As Integer
 
         Console.WriteLine("Ingrese valor 1")
         A = Console.ReadLine()
@@ -15,7 +17,10 @@ Module Program
         C = Console.ReadLine()
         Console.WriteLine("Ingrese valor 4")
         D = Console.ReadLine()
-        Console.WriteLine("La sumatoria de todos los numeros es de: " & A + B + C + D & " Y la media es de: " & A + B + C + D / 4)
+        suma = A + B + C + D
+        media = suma / 4
+
+        Console.WriteLine("La sumatoria de todos los numeros es de: " & suma & " Y la media es de: " & media)
 
 
 

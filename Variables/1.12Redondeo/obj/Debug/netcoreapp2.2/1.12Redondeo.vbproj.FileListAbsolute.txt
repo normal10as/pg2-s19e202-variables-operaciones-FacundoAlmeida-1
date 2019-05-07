@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.12Redondeo\bin\Debug\netcoreapp2.2\1.12Redondeo.deps.json
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.12Redondeo\bin\Debug\netcoreapp2.2\1.12Redondeo.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.12Redondeo\bin\Debug\netcoreapp2.2\1.12Redondeo.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.12Redondeo\bin\Debug\netcoreapp2.2\1.12Redondeo.dll
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.12Redondeo\bin\Debug\netcoreapp2.2\1.12Redondeo.pdb
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.12Redondeo\obj\Debug\netcoreapp2.2\1.12Redondeo.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.12Redondeo\obj\Debug\netcoreapp2.2\1.12Redondeo.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.12Redondeo\obj\Debug\netcoreapp2.2\1.12Redondeo.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.12Redondeo\obj\Debug\netcoreapp2.2\1.12Redondeo.dll
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.12Redondeo\obj\Debug\netcoreapp2.2\1.12Redondeo.pdb
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.12Redondeo\obj\Debug\netcoreapp2.2\1.12Redondeo.vbprojAssemblyReference.cache

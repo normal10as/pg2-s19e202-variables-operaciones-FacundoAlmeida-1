@@ -1,0 +1,10 @@
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\bin\Debug\netcoreapp2.2\1.6suma_promedio.deps.json
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\bin\Debug\netcoreapp2.2\1.6suma_promedio.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\bin\Debug\netcoreapp2.2\1.6suma_promedio.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\bin\Debug\netcoreapp2.2\1.6suma_promedio.dll
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\bin\Debug\netcoreapp2.2\1.6suma_promedio.pdb
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\obj\Debug\netcoreapp2.2\1.6suma_promedio.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\obj\Debug\netcoreapp2.2\1.6suma_promedio.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\obj\Debug\netcoreapp2.2\1.6suma_promedio.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\obj\Debug\netcoreapp2.2\1.6suma_promedio.dll
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\obj\Debug\netcoreapp2.2\1.6suma_promedio.pdb

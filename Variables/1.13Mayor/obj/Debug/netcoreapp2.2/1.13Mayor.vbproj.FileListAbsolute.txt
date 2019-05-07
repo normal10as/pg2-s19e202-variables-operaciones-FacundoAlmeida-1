@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.13Mayor\bin\Debug\netcoreapp2.2\1.13Mayor.deps.json
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.13Mayor\bin\Debug\netcoreapp2.2\1.13Mayor.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.13Mayor\bin\Debug\netcoreapp2.2\1.13Mayor.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.13Mayor\bin\Debug\netcoreapp2.2\1.13Mayor.dll
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.13Mayor\bin\Debug\netcoreapp2.2\1.13Mayor.pdb
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.13Mayor\obj\Debug\netcoreapp2.2\1.13Mayor.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.13Mayor\obj\Debug\netcoreapp2.2\1.13Mayor.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.13Mayor\obj\Debug\netcoreapp2.2\1.13Mayor.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.13Mayor\obj\Debug\netcoreapp2.2\1.13Mayor.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.13Mayor\obj\Debug\netcoreapp2.2\1.13Mayor.dll
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.13Mayor\obj\Debug\netcoreapp2.2\1.13Mayor.pdb

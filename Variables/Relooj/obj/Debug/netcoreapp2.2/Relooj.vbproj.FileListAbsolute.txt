@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Relooj\bin\Debug\netcoreapp2.2\Relooj.deps.json
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Relooj\bin\Debug\netcoreapp2.2\Relooj.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Relooj\bin\Debug\netcoreapp2.2\Relooj.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Relooj\bin\Debug\netcoreapp2.2\Relooj.dll
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Relooj\bin\Debug\netcoreapp2.2\Relooj.pdb
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Relooj\obj\Debug\netcoreapp2.2\Relooj.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Relooj\obj\Debug\netcoreapp2.2\Relooj.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Relooj\obj\Debug\netcoreapp2.2\Relooj.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Relooj\obj\Debug\netcoreapp2.2\Relooj.dll
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Relooj\obj\Debug\netcoreapp2.2\Relooj.pdb
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Relooj\obj\Debug\netcoreapp2.2\Relooj.vbprojAssemblyReference.cache

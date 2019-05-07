@@ -8,3 +8,14 @@ C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-FacundoA
 C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\obj\Debug\netcoreapp2.2\Sumatoria.AssemblyInfo.vb
 C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\obj\Debug\netcoreapp2.2\Sumatoria.dll
 C:\Users\Facu\source\repos\normal10as\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\obj\Debug\netcoreapp2.2\Sumatoria.pdb
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\bin\Debug\netcoreapp2.2\Sumatoria.deps.json
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\bin\Debug\netcoreapp2.2\Sumatoria.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\bin\Debug\netcoreapp2.2\Sumatoria.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\bin\Debug\netcoreapp2.2\Sumatoria.dll
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\bin\Debug\netcoreapp2.2\Sumatoria.pdb
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\obj\Debug\netcoreapp2.2\Sumatoria.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\obj\Debug\netcoreapp2.2\Sumatoria.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\obj\Debug\netcoreapp2.2\Sumatoria.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\obj\Debug\netcoreapp2.2\Sumatoria.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\obj\Debug\netcoreapp2.2\Sumatoria.dll
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\Sumatoria\obj\Debug\netcoreapp2.2\Sumatoria.pdb

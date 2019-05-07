@@ -1,0 +1,10 @@
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\09_Equivalencia_dias\bin\Debug\netcoreapp2.2\1.07Equivalencia_dias.deps.json
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\09_Equivalencia_dias\bin\Debug\netcoreapp2.2\1.07Equivalencia_dias.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\09_Equivalencia_dias\bin\Debug\netcoreapp2.2\1.07Equivalencia_dias.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\09_Equivalencia_dias\bin\Debug\netcoreapp2.2\1.07Equivalencia_dias.dll
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\09_Equivalencia_dias\bin\Debug\netcoreapp2.2\1.07Equivalencia_dias.pdb
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\09_Equivalencia_dias\obj\Debug\netcoreapp2.2\1.07Equivalencia_dias.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\09_Equivalencia_dias\obj\Debug\netcoreapp2.2\1.07Equivalencia_dias.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\09_Equivalencia_dias\obj\Debug\netcoreapp2.2\1.07Equivalencia_dias.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\09_Equivalencia_dias\obj\Debug\netcoreapp2.2\1.07Equivalencia_dias.dll
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\09_Equivalencia_dias\obj\Debug\netcoreapp2.2\1.07Equivalencia_dias.pdb

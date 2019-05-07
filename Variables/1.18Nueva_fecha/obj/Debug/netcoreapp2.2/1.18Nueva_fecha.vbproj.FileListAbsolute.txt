@@ -1,0 +1,10 @@
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.18Nueva_fecha\bin\Debug\netcoreapp2.2\1.18Nueva_fecha.deps.json
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.18Nueva_fecha\bin\Debug\netcoreapp2.2\1.18Nueva_fecha.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.18Nueva_fecha\bin\Debug\netcoreapp2.2\1.18Nueva_fecha.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.18Nueva_fecha\bin\Debug\netcoreapp2.2\1.18Nueva_fecha.dll
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.18Nueva_fecha\bin\Debug\netcoreapp2.2\1.18Nueva_fecha.pdb
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.18Nueva_fecha\obj\Debug\netcoreapp2.2\1.18Nueva_fecha.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.18Nueva_fecha\obj\Debug\netcoreapp2.2\1.18Nueva_fecha.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.18Nueva_fecha\obj\Debug\netcoreapp2.2\1.18Nueva_fecha.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.18Nueva_fecha\obj\Debug\netcoreapp2.2\1.18Nueva_fecha.dll
+C:\Users\Facu\source\repos\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\Variables\1.18Nueva_fecha\obj\Debug\netcoreapp2.2\1.18Nueva_fecha.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Facu\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Tabla de verdad\\Tabla de verdad.vbproj": {}
+    "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Tabla de verdad\\Tabla de verdad.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Facu\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Tabla de verdad\\Tabla de verdad.vbproj": {
+    "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Tabla de verdad\\Tabla de verdad.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Facu\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Tabla de verdad\\Tabla de verdad.vbproj",
+        "projectUniqueName": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Tabla de verdad\\Tabla de verdad.vbproj",
         "projectName": "Tabla de verdad",
-        "projectPath": "C:\\Users\\Facu\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Tabla de verdad\\Tabla de verdad.vbproj",
+        "projectPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Tabla de verdad\\Tabla de verdad.vbproj",
         "packagesPath": "C:\\Users\\Facu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Facu\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Tabla de verdad\\obj\\",
+        "outputPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Tabla de verdad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
