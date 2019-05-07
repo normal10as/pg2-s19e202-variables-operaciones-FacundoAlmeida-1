@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.13Mayor\\1.13Mayor.vbproj": {}
+    "C:\\Users\\Facu\\Source\\Repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.13Mayor\\1.13Mayor.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.13Mayor\\1.13Mayor.vbproj": {
+    "C:\\Users\\Facu\\Source\\Repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.13Mayor\\1.13Mayor.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.13Mayor\\1.13Mayor.vbproj",
+        "projectUniqueName": "C:\\Users\\Facu\\Source\\Repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.13Mayor\\1.13Mayor.vbproj",
         "projectName": "1.13Mayor",
-        "projectPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.13Mayor\\1.13Mayor.vbproj",
+        "projectPath": "C:\\Users\\Facu\\Source\\Repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.13Mayor\\1.13Mayor.vbproj",
         "packagesPath": "C:\\Users\\Facu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.13Mayor\\obj\\",
+        "outputPath": "C:\\Users\\Facu\\Source\\Repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.13Mayor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
