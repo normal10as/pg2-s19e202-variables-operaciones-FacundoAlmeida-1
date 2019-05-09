@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Relooj\\1.16Reloj.vbproj": {}
+    "C:\\Users\\Facu\\Source\\Repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Relooj\\1.16Reloj.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Relooj\\1.16Reloj.vbproj": {
+    "C:\\Users\\Facu\\Source\\Repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Relooj\\1.16Reloj.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Relooj\\1.16Reloj.vbproj",
+        "projectUniqueName": "C:\\Users\\Facu\\Source\\Repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Relooj\\1.16Reloj.vbproj",
         "projectName": "1.16Reloj",
-        "projectPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Relooj\\1.16Reloj.vbproj",
+        "projectPath": "C:\\Users\\Facu\\Source\\Repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Relooj\\1.16Reloj.vbproj",
         "packagesPath": "C:\\Users\\Facu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Relooj\\obj\\",
+        "outputPath": "C:\\Users\\Facu\\Source\\Repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Relooj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

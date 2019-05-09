@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\interes\\1.09 interes.vbproj": {}
+    "C:\\Users\\Facu\\Source\\Repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\interes\\1.09 interes.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\interes\\1.09 interes.vbproj": {
+    "C:\\Users\\Facu\\Source\\Repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\interes\\1.09 interes.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\interes\\1.09 interes.vbproj",
+        "projectUniqueName": "C:\\Users\\Facu\\Source\\Repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\interes\\1.09 interes.vbproj",
         "projectName": "1.09 interes",
-        "projectPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\interes\\1.09 interes.vbproj",
+        "projectPath": "C:\\Users\\Facu\\Source\\Repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\interes\\1.09 interes.vbproj",
         "packagesPath": "C:\\Users\\Facu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\interes\\obj\\",
+        "outputPath": "C:\\Users\\Facu\\Source\\Repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\interes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
