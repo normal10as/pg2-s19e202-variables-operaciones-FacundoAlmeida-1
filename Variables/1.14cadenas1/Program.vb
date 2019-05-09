@@ -1,10 +1,10 @@
 Imports System
-Imports Datetime
+
 
 
 Module Program
     Sub Main(args As String())
-        Dim cadena, buscar, let_o, let_a As String
+        Dim cadena, let_o, let_a As String
         Console.WriteLine("Ingrese una palabra: ")
         cadena = Console.ReadLine()
         let_a = cadena.IndexOf("a", 0) + 1

@@ -1,5 +1,7 @@
 Imports System
-Imports datetime
+Imports System.DateTime
+
+
 
 Module Reloj
     Sub Main(args As String())
@@ -9,7 +11,7 @@ Module Reloj
         Dim minuto As Date
 
         dia = dia.Now
-        Console.WriteLine("dia " & dia)
+        Console.WriteLine("fecha completa: " & dia)
         Console.WriteLine("Dia del año: " & dia.DayOfYear)
         mes = mes.Now
         Console.WriteLine("Mes del año: " & mes.Month)

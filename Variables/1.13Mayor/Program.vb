@@ -3,7 +3,6 @@ Imports System.Math
 Module Program
     Sub Main(args As String())
         Dim nro_1, nro_2, nro_3 As Decimal
-        Dim mayor As Decimal
         Dim mayor_de_2 As Decimal
         Console.WriteLine("Ingrese 3 numeros: ")
         nro_1 = Console.ReadLine()
