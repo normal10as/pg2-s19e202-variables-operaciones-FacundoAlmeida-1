@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Facu\\Source\\Repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.18Nueva_fecha\\1.18Nueva_fecha.vbproj": {}
+    "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.18Nueva_fecha\\1.18Nueva_fecha.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Facu\\Source\\Repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.18Nueva_fecha\\1.18Nueva_fecha.vbproj": {
+    "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.18Nueva_fecha\\1.18Nueva_fecha.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Facu\\Source\\Repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.18Nueva_fecha\\1.18Nueva_fecha.vbproj",
+        "projectUniqueName": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.18Nueva_fecha\\1.18Nueva_fecha.vbproj",
         "projectName": "1.18Nueva_fecha",
-        "projectPath": "C:\\Users\\Facu\\Source\\Repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.18Nueva_fecha\\1.18Nueva_fecha.vbproj",
+        "projectPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.18Nueva_fecha\\1.18Nueva_fecha.vbproj",
         "packagesPath": "C:\\Users\\Facu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Facu\\Source\\Repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.18Nueva_fecha\\obj\\",
+        "outputPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.18Nueva_fecha\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

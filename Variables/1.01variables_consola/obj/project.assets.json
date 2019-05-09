@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\variables_consola\\1.01variables_consola.vbproj",
+      "projectUniqueName": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.01variables_consola\\1.01variables_consola.vbproj",
       "projectName": "1.01variables_consola",
-      "projectPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\variables_consola\\1.01variables_consola.vbproj",
+      "projectPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.01variables_consola\\1.01variables_consola.vbproj",
       "packagesPath": "C:\\Users\\Facu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\variables_consola\\obj\\",
+      "outputPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.01variables_consola\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Sumatoria\\1.06suma_promedio.vbproj",
+      "projectUniqueName": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.06suma_promedio\\1.06suma_promedio.vbproj",
       "projectName": "1.06suma_promedio",
-      "projectPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Sumatoria\\1.06suma_promedio.vbproj",
+      "projectPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.06suma_promedio\\1.06suma_promedio.vbproj",
       "packagesPath": "C:\\Users\\Facu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Sumatoria\\obj\\",
+      "outputPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.06suma_promedio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

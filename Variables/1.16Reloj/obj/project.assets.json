@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Relooj\\1.16Reloj.vbproj",
+      "projectUniqueName": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.16Reloj\\1.16Reloj.vbproj",
       "projectName": "1.16Reloj",
-      "projectPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Relooj\\1.16Reloj.vbproj",
+      "projectPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.16Reloj\\1.16Reloj.vbproj",
       "packagesPath": "C:\\Users\\Facu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\Relooj\\obj\\",
+      "outputPath": "C:\\Users\\Facu\\source\\repos\\pg2-s19e202-variables-operaciones-FacundoAlmeida-1\\Variables\\1.16Reloj\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
